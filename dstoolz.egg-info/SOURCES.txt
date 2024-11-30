@@ -1,0 +1,6 @@
+README.md
+setup.py
+dstoolz.egg-info/PKG-INFO
+dstoolz.egg-info/SOURCES.txt
+dstoolz.egg-info/dependency_links.txt
+dstoolz.egg-info/top_level.txt
