@@ -1,3 +1,3 @@
 # Data Science Tools
 
-Test module with useful functions. Updates as new use cases arise or new ideas come to mind.
+Test module with a mix of useful functions. Currently not sorted, some functions are duplicated, watch out!
